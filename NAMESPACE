@@ -1,0 +1,7 @@
+export(BCgee)
+S3method(print, BCgee)
+S3method(print, summary.BCgee)
+S3method(summary, BCgee)
+importFrom("stats", "coefficients", "dnorm", "model.extract",
+             "model.matrix", "model.offset", "pnorm", "quantile")
+
