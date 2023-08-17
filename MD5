@@ -1,8 +1,8 @@
-c4c565aed7ec39c193ab7ada0bc1e0e0 *DESCRIPTION
+c7205bfe0289eec2862bc670459bef4d *DESCRIPTION
 1e9da60e6c818b177ed8e4666b3b419e *NAMESPACE
 318f493ec0022fb53275bbc72e5de043 *R/bcgee.R
-5fa7282335ae2b540485770d46a4d5c1 *data/cereb.RData
-7b58df2e2b27e65a778c6ae3155776ae *data/seizure.RData
+c19ae0b49725203534a4ec80f3ea2344 *data/cereb.RData
+a55bdce509b500890e5bab341546fec6 *data/seizure.RData
 121e437446862c159f008cca0d35b132 *man/BCgee.Rd
 c44c42934eb9760e65854f026ab745bc *man/cereb_data.Rd
 3a867d9a2a7e78453a661ec82092e6fb *man/seizure_data.Rd
